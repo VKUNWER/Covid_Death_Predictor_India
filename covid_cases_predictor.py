@@ -15,8 +15,8 @@ model=RandomForestRegressor(n_estimators = 48, random_state = 400)
 
 model.fit(X_train, y_train)
 model.score(X_test, y_test)
-#0.9660079160606884
-#96.60%
+
+#96.60% accuracy
 
 
 
