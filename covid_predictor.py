@@ -27,3 +27,5 @@ y_predict=pd.DataFrame(y_predict, columns=['Daily Deceased predicted'])
 x_custom=pd.DataFrame(data=[('268','182')],columns=['Daily Confirmed','Daily Recovered'])
 y_pre=model.predict(x_custom)
 print(y_pre)
+
+#22 deaths predicted on 29/12/2022
