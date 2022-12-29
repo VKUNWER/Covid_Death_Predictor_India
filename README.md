@@ -7,3 +7,5 @@ b. It does not take into consideration vaccination ,climate and other factors wh
 b. The model is trained with covid cases in India from 2020.
 
 c. The model is having an accuracy of 96.66%.
+
+d. This Framework can be used for predicting cases in other Countries depending on the dataset provided for training the model.
